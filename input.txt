@@ -1,0 +1,7 @@
+int main(){
+    int a=1;
+    float b=1.1;
+    char ch='a';
+    char[] name = "Nisarg";
+    return 0;
+}
